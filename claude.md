@@ -59,10 +59,17 @@ Example:
 - **Platform**: macOS
 - **Angular Version**: 20.1.0
 
+## Project Documentation
+
+- **Development Log**: See [DEVELOPMENT.md](DEVELOPMENT.md) for detailed history of all changes and development steps
+- **GitHub Repository**: https://github.com/devLuca15/ng-claude-test
+
 ## Useful Resources
 
-- Documentation: https://docs.claude.com/en/docs/claude-code
-- Feedback/Issues: https://github.com/anthropics/claude-code/issues
+- Claude Code Documentation: https://docs.claude.com/en/docs/claude-code
+- Claude Code Feedback/Issues: https://github.com/anthropics/claude-code/issues
+- Angular Documentation: https://angular.dev
+- RxJS Documentation: https://rxjs.dev
 
 ## Examples
 
