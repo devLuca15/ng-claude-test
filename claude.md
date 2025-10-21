@@ -51,10 +51,13 @@ Example:
 
 ## Current Project Configuration
 
-- **Working Directory**: `/Users/lc.cucchiaro/Documents/Sviluppo/Angular`
+- **Project Name**: ng-claude-test
+- **Working Directory**: `/Users/lc.cucchiaro/Documents/Sviluppo/Angular/my-angular-app`
+- **Git Repository**: https://github.com/devLuca15/ng-claude-test.git
 - **Git User**: DevLuca15
 - **Git Email**: devluca15@gmail.com
 - **Platform**: macOS
+- **Angular Version**: 20.1.0
 
 ## Useful Resources
 
